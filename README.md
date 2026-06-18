@@ -107,3 +107,4 @@ Batch background removal
 Cloud project sync
 
 Animated & video background removal
+<!-- commit 1 -->
